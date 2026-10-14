@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/1lz28xdimaww-.css","style"]
+:HL["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/matespect%20logo-6dTscVKvWCVFBcTOnslpFok1MYDZ5d.jpg","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"WbWYukp9ehqty3Cdv-45f","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

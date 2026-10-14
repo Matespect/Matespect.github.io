@@ -1,2 +1,7 @@
-# Matespect.github.io
-Matespect team introduction and public project overview (site content to be added by the team)
+# Matespect
+
+Public website for the Matespect research team and its CASMI 2026 project.
+
+The site is served from the static export in this repository:
+
+https://matespect.github.io/
